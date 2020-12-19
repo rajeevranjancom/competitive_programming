@@ -1,4 +1,4 @@
-# So you want to be a topcoder?
+# So you want to be a top Rated coder?
 
 #### What is this about?
 How to start competing at [TopCoder](https://www.topcoder.com) and similar websites,
@@ -62,7 +62,7 @@ IRL competitions, competitors you should follow.
 #### Algorithms
 - Dynamic Programming
 	- [Dynamic Programming - From Novice to Advanced](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
-	- [Dynamic Programming for Programming Competitions - Lecture](#)
+	- [Some Gem in the form of Book](https://github.com/rajeevranjancom/Programming_Book)
 
 - Graphs
 - Trees

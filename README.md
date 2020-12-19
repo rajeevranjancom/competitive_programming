@@ -44,6 +44,14 @@ IRL competitions, competitors you should follow.
 	- [Profile on Quora](https://www.quora.com/profile/Brian-Bi)
 	- [Profile on Twitter](https://twitter.com/t3nsor)
 	- [Profile on Github](https://github.com/t3nsor)
+	
+- William Lin
+	- [Profile on Youtube](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
+	- [Profile on Twitter](https://twitter.com/tmwilliamlin168)
+	- [Profile on Github](https://github.com/tmwilliamlin168)
+	- [Profile on Instagram](https://www.instagram.com/tmwilliamlin168/?hl=en)
+	- [Profile on codeforces](https://codeforces.com/profile/tmwilliamlin168)
+
 
 #### Discussions
 - [What is it like to meet or know Petr Mitrichev](https://www.quora.com/What-it-is-like-to-meet-or-know-Petr-Mitrichev)

@@ -6,13 +6,13 @@ The knowledge of [algorithms](https://www.topcoder.com/community/data-science/da
 IRL competitions, competitors you should follow.
 
 #### Table of Contents
-- [How to Start](https://github.com/lucasviola/competitive-programming-resources#how-to-start)
-- [Online Competition](https://github.com/lucasviola/competitive-programming-resources#online-competition)
-- [Events](https://github.com/lucasviola/competitive-programming-resources#events)
-- [Competitors](https://github.com/lucasviola/competitive-programming-resources#competitors)
-- [Discussions](https://github.com/lucasviola/competitive-programming-resources#discussions)
-- [Algorithms](https://github.com/lucasviola/competitive-programming-resources#algorithms)
-- [Math for Programmers](https://github.com/lucasviola/competitive-programming-resources#math-for-programmers)
+- [How to Start](https://github.com/rajeevranjancom/competitive_programming)
+- [Online Competition](https://github.com/rajeevranjancom/competitive_programming#online-competition)
+- [Events](https://github.com/rajeevranjancom/competitive_programming#events)
+- [Competitors](https://github.com/rajeevranjancom/competitive_programming#competitors)
+- [Discussions](https://github.com/rajeevranjancom/competitive_programming#discussions)
+- [Algorithms](https://github.com/rajeevranjancom/competitive_programming#algorithms)
+- [Math for Programmers](https://github.com/rajeevranjancom/competitive_programming#math-for-programmers)
 
 #### Online Competition
 - [Topcoder](https://www.topcoder.com/)
@@ -62,7 +62,7 @@ IRL competitions, competitors you should follow.
 #### Algorithms
 - Dynamic Programming
 	- [Dynamic Programming - From Novice to Advanced](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
-	- [Dynamic Programming for Programming Competitions - Lecture](https://www.youtube.com/watch?v=Ad0DKl7HUwI)
+	- [Dynamic Programming for Programming Competitions - Lecture](#)
 
 - Graphs
 - Trees

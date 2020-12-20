@@ -82,3 +82,12 @@ IRL competitions, competitors you should follow.
 #### Math for programmers
 - [Mathematics for Computer Science MIT Open Coursware](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 - [Quora - What are some must know topics in discrete math and probability for competitive programming](https://www.quora.com/What-are-some-must-know-topics-in-discrete-math-and-probability-for-competitive-programming)
+
+#### Some Question for Practice:
+
+- [Set -1(Click me)](https://drive.google.com/file/d/1R8WTB829b8pS-ceFdc7Srtbh2es2pncN/view?usp=sharing)
+- [Set -2(Click me)](https://drive.google.com/file/d/1eOdzfeiHVxGiu7Xbr5y5SBLudykNrVMd/view?usp=sharing)
+- [Set -3(Click me)](https://drive.google.com/file/d/1NZWmgoM0467Q9YmZjKpR997potQYOGN1/view?usp=sharing)
+- [Set -4(Click me)](https://drive.google.com/file/d/1OE29iNSJFbVQvp-6WkzlxbqRAPFSWN8u/view?usp=sharing)
+- [Set -5(Click me)](https://drive.google.com/file/d/1iugOs3my87BM9R6cZ6Vt74QpaW32pNZJ/view?usp=sharing)
+
